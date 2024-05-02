@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3ece1; /* Marrón pastel */
+}
+
+header {
+    background-color: #8c756a; /* Marrón más oscuro */
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #8c756a; /* Marrón más oscuro */
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
